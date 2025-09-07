@@ -1,0 +1,92 @@
+body {
+background-image: url("WidgetCoLogo.gif");
+background-repeat: no-repeat;
+background-position: center center;
+background-size:unset;
+padding-left:300px;
+padding-right:300px;
+
+}
+
+header {
+color: black;
+font-variant: small-caps;
+text-align:center;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+border-right: 18px solid black;
+padding: 3px;
+}
+
+
+
+aside {
+color: black;
+border-right: 18px solid rgb(64, 59, 87);
+text-align: right;
+padding-right: 18px;
+float:right;
+font-size: medium;
+}
+
+aside::first-line { 
+    font-weight: bold;
+    font-size: large;
+}
+
+h1 {
+color: black;
+font-size:30pt;
+max-width: 700px;
+}
+
+article {
+display:inline-block;
+
+margin-left: 50pt;
+margin-right: 50pt;
+}
+
+h2 {
+color: black; 
+font-style: italic;
+text-align: center;
+font-size: 20pt;
+}
+
+p {
+color: black;
+font-size: 13.5pt;
+text-align:justify;
+}
+
+
+section {
+color: black;
+border-top: 3px solid green;
+border-bottom: 3px solid green;
+border-right: 3px solid green;
+border-left: 30px solid green;
+background-color: lightyellow;
+padding: 5px;
+padding-left: 20px;
+text-align: justify;
+
+}
+
+section a:link {
+   font-weight: bold;
+}
+
+
+footer {
+color: gray;
+margin-top: 15px;
+padding-top: 5px;
+border-top: 1px solid lightslategray;
+font-style: italic;
+text-align: right;
+font-size: smaller;
+}
+
+footer a:link {color:grey}
