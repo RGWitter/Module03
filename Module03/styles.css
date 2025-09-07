@@ -64,10 +64,10 @@ text-align:justify;
 
 section {
 color: black;
-border-top: 3px solid green;
-border-bottom: 3px solid green;
-border-right: 3px solid green;
-border-left: 30px solid green;
+border-top: 3px solid #008035;
+border-bottom: 3px solid #008035;
+border-right: 3px solid #008035;
+border-left: 30px solid #008035;
 background-color: lightyellow;
 padding: 5px;
 padding-left: 20px;
