@@ -1,0 +1,1 @@
+My experience using GitHub was alright. I had problems for an unrealted reason, that I had a personal account, and accidentally pushed my files to that one instead. I figured it out in the end, with the help of a friend, and got the desktop app and the online one back in sync. 
